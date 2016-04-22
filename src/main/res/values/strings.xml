@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">islamicInheritance</string>
+
+    <string name="activity_main_start_button">إبدأ</string>
+    <string name="activity_main_manual_button">دليل المستعمل</string>
+    <string name="activity_main_about_button">حول البرنامج</string>
+    <string name="activity_main_title">الإرث في الإسلام</string>
+
+</resources>
